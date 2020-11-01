@@ -12,5 +12,5 @@ Recognizing faces in videos using SphereFace, OpenCV and MTCNN. Using the file s
 - Move images of faces to images folder
 - Move the video for recognition to local repo.
 - Activate the python environment
-- Command to run the model: ###python facerec-final.py --model sphere20a_20171020.pth --video "write name of video here" --embed true
+- Command to run the model: python facerec-final.py --model sphere20a_20171020.pth --video "write name of video here" --embed true
 
