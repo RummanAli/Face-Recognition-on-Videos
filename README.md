@@ -23,5 +23,3 @@ Recognizing faces in videos using SphereFace, OpenCV and MTCNN. Using the file s
 - MTCNN
 - ArgParse
 
-## Frame from output Video
-![Recognized Image](https://github.com/RummanAli/Face-Recognition-on-Videos/blob/main/recognized_faces.jpg?raw=true)
